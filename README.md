@@ -1,0 +1,2 @@
+# Comp2406_a1
+Node.js/Javascript based Single Page App. This project is a small web app that is based on just the native capabilties of Node.js and javascript. Specifically, building an app that allows a user to open a chord pro (chords and lyrics) file hosted by the server and then within their browser drag the words and chord symbols around. When finished they should be able to upload the revised data back to the server which will then store an updated version of the file.
